@@ -1,0 +1,14 @@
+C:\Users\el\Desktop\test2\bin\Debug\net6.0\DependencyResolver.exe
+C:\Users\el\Desktop\test2\bin\Debug\net6.0\DependencyResolver.deps.json
+C:\Users\el\Desktop\test2\bin\Debug\net6.0\DependencyResolver.runtimeconfig.json
+C:\Users\el\Desktop\test2\bin\Debug\net6.0\DependencyResolver.dll
+C:\Users\el\Desktop\test2\bin\Debug\net6.0\DependencyResolver.pdb
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.AssemblyInfoInputs.cache
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.AssemblyInfo.cs
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.dll
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\refint\DependencyResolver.dll
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.pdb
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\DependencyResolver.genruntimeconfig.cache
+C:\Users\el\Desktop\test2\obj\Debug\net6.0\ref\DependencyResolver.dll
